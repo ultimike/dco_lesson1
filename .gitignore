@@ -4,4 +4,10 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+
+# Stuff Mike added
+# Ignore Acquia Dev Desktop stuff
 sites/*.dd
+
+# Ignore Mac stuff
+.DS_Store
